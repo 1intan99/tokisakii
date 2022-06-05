@@ -43,8 +43,8 @@ function MyApp({ Component, pageProps }: AppProps) {
           images: [
             {
               url: "https://cdn.discordapp.com/banners/242969117479403520/a_b2ce0f3d99c78d94386b0fd9e2907286.gif",
-              width: 800,
-              height: 420,
+              width: 128,
+              height: 128,
               alt: "Tokisaki",
             },
           ],
