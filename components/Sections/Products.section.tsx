@@ -1,8 +1,8 @@
 import { BsArrowRightShort } from "../Misc/Icons.collection";
 
-const Skills = () => {
+const Products = () => {
   return (
-    <div className="my-16 px-3 font-sen text-white" id="skills">
+    <div className="my-16 px-3 font-sen text-white" id="products">
       <p className="text-3xl font-bold text-white">Product</p>
 
       <div className="text-md my-8 flex flex-col font-medium md:text-xl custom:text-lg">
@@ -28,4 +28,4 @@ const Skills = () => {
   );
 };
 
-export default Skills;
+export default Products;

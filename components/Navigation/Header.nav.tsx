@@ -26,8 +26,7 @@ const Header: NextComponentType = () => {
     >
       <p className="hidden sm:flex sm:flex-row sm:gap-x-4">
         <TextLink text="Home" url="#" />
-        <TextLink text="Skills" url="#skills" />
-        <TextLink text="Projects" url="#projects" />
+        <TextLink text="Product" url="#products" />
         <TextLink text="Contact" url="#contact" />
       </p>
 
