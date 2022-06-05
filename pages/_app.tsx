@@ -39,7 +39,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           url: "https://devraiden.tech",
           title: "Tokisaki",
           description:
-            "Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!",
+            "Hey I'am Tokisaki! Do you need something? read my website and join my discord.",
           images: [
             {
               url: "https://cdn.discordapp.com/banners/242969117479403520/a_b2ce0f3d99c78d94386b0fd9e2907286.gif",
